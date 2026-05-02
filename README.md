@@ -51,6 +51,9 @@ The model classifies images into 10 categories:
 | 8 | Bag |
 | 9 | Ankle boot |
 
+<img width="793" height="890" alt="image" src="https://github.com/user-attachments/assets/2f70e843-9597-44d6-a4fe-b79b62e52ad1" />
+
+
 ---
 
 ## 🧠 Model Architecture
