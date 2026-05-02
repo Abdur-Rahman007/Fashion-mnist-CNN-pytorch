@@ -110,9 +110,13 @@ Flatten → Fully Connected Layers → Output (10 classes)
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/fashion-mnist-cnn-pytorch.git
-2. Navigate to the project
-cd fashion-mnist-cnn-pytorch
-3. Open the notebook
-fashion_mnist_cnn_pytorch.ipynb
-4. Run all cells in Jupyter Notebook / Kaggle
 ```
+### 2. Navigate to the project
+```bash
+cd fashion-mnist-cnn-pytorch
+```
+### 3. Open the notebook
+```bash
+fashion_mnist_cnn_pytorch.ipynb
+```
+### 4. Run all cells in Jupyter Notebook / Kaggle
